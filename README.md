@@ -1,0 +1,2 @@
+# Project-Lunacy
+A high-fidelity tactical forensic platform for League of Legends that utilizes the Axioms of Value and Relative Gold Efficiency (RGE) for post-mortem video analysis.
